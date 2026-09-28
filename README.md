@@ -64,4 +64,7 @@ Replace the contents of `faq.txt` with any company's FAQ, policies or product in
 ## Author
 
 Alisha Tabassum, Computer Engineer
+
 [LinkedIn](www.linkedin.com/in/alisha-tabassum-2230452b0)
+
+
