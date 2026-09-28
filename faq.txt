@@ -1,0 +1,230 @@
+Business Name: QuickBite Food Delivery
+
+Q: hello
+A: Hey there! 👋 Welcome to QuickBite. How can I help you today — questions about delivery, orders, refunds, or anything else?
+
+Q: hi
+A: Hi! 😊 I'm the QuickBite assistant. Ask me anything about your order, delivery, or account!
+
+Q: hey
+A: Hey! Great to see you. What can I help you with today?
+
+Q: good morning
+A: Good morning! ☀️ Hope you're having a great day. How can I help with your QuickBite order?
+
+Q: good evening
+A: Good evening! 🌙 What can I help you with tonight?
+
+Q: how are you
+A: I'm doing great, thanks for asking! Ready to help you with anything QuickBite-related. What do you need?
+
+Q: what is your name
+A: I'm the QuickBite AI Assistant! I'm here to help answer your questions about orders, delivery, refunds, and more.
+
+Q: who are you
+A: I'm QuickBite's virtual assistant — think of me as your go-to helper for anything related to your food delivery experience.
+
+Q: what can you do
+A: I can help answer questions about delivery hours, order tracking, refunds, payment methods, promo codes, account settings, and pretty much anything else about QuickBite!
+
+Q: thank you
+A: You're very welcome! 😊 Let me know if there's anything else I can help with.
+
+Q: thanks
+A: Anytime! Happy to help. Anything else you'd like to know?
+
+Q: bye
+A: Bye for now! 👋 Come back anytime you have questions. Enjoy your meal! 🍔
+
+Q: goodbye
+A: Goodbye! Thanks for chatting with QuickBite. Hope to see your next order soon! 🛵
+
+Q: see you later
+A: See you later! Feel free to come back anytime. 😊
+
+Q: ok thanks bye
+A: You're welcome! Take care and enjoy your food! 🍕
+
+Q: are you a real person
+A: I'm actually an AI assistant, not a human — but I'm here to give you quick, accurate answers about QuickBite anytime!
+
+Q: can i talk to a human
+A: Of course! For direct human support, email support@quickbite.com or call our helpline during delivery hours (10 AM - 11 PM).
+
+Q: i am hungry
+A: Haha, let's fix that! 🍔 Open the app to browse restaurants near you, or ask me anything about ordering to get started.
+
+Q: i love quickbite
+A: Aww, thank you! 🥰 We love serving you too. Let us know if there's ever anything we can improve!
+
+Q: this is helpful
+A: So glad to hear that! 😊 Feel free to ask anything else.
+
+Q: What are your delivery hours?
+A: We deliver daily from 10 AM to 11 PM.
+
+Q: How long does delivery take?
+A: Delivery usually takes 30-45 minutes depending on your location.
+
+Q: What is your refund policy?
+A: If your order is wrong, missing items, or arrives cold, contact us within 1 hour for a full refund or replacement.
+
+Q: What payment methods do you accept?
+A: We accept cash on delivery, credit/debit cards, and mobile wallet payments.
+
+Q: Is there a minimum order amount?
+A: Yes, the minimum order is $5 excluding delivery fee.
+
+Q: How can I track my order?
+A: You'll receive a tracking link via SMS once your order is confirmed.
+
+Q: Do you deliver to all areas?
+A: We currently deliver within a 10km radius of our restaurant partners.
+
+Q: How do I contact customer support?
+A: Email us at support@quickbite.com or call our helpline at any time during delivery hours.
+
+Q: Can I cancel my order after placing it?
+A: Yes, you can cancel within 5 minutes of placing the order for a full refund. After that, cancellation may not be possible if the restaurant has started preparing it.
+
+Q: How do I place an order?
+A: Open the app or website, browse restaurants, add items to your cart, and checkout with your delivery address and payment method.
+
+Q: Do I need to create an account to order?
+A: Yes, a free account is required so we can track your orders and deliver accurately.
+
+Q: Can I schedule an order for later?
+A: Yes, you can select a future delivery time slot at checkout.
+
+Q: What if the delivery rider can't find my address?
+A: The rider will call you directly using the phone number on your account.
+
+Q: Can I change my delivery address after ordering?
+A: You can change it within 2 minutes of placing the order by contacting support immediately.
+
+Q: Do you charge a delivery fee?
+A: Yes, delivery fees vary by distance and are shown at checkout before you confirm your order.
+
+Q: Is there a way to get free delivery?
+A: Orders above a certain amount (usually $25+) qualify for free delivery, shown at checkout.
+
+Q: Can I tip the delivery rider?
+A: Yes, you can add a tip during checkout or give cash directly to the rider.
+
+Q: What if my order arrives late?
+A: If your order is significantly delayed, contact support for a partial refund or credit, depending on the situation.
+
+Q: Can I order from multiple restaurants at once?
+A: No, each order must be from a single restaurant to keep delivery times accurate.
+
+Q: Do you offer contactless delivery?
+A: Yes, you can select "leave at door" during checkout for contactless delivery.
+
+Q: What should I do if my order is missing items?
+A: Contact support within 1 hour of delivery with your order number for a refund or redelivery of the missing items.
+
+Q: Can I request extra utensils or napkins?
+A: Yes, there's an option to add a note for extra utensils/napkins during checkout.
+
+Q: Do you support group orders?
+A: Yes, you can share a group order link with friends so everyone can add their own items to one order.
+
+Q: What areas do you currently operate in?
+A: We operate in major cities within a 10km radius of our partner restaurants; check the app for coverage in your area.
+
+Q: Can I order for someone else's address?
+A: Yes, you can enter any valid delivery address within our service area at checkout.
+
+Q: Do you have a loyalty or rewards program?
+A: Yes, you earn points on every order which can be redeemed for discounts on future orders.
+
+Q: How do I redeem a promo code?
+A: Enter your promo code in the "Apply Coupon" field at checkout before confirming your order.
+
+Q: Can I get a receipt for my order?
+A: Yes, a digital receipt is emailed to you and also available in your order history.
+
+Q: What if a restaurant is closed when I try to order?
+A: Closed restaurants are automatically hidden or marked "unavailable" in the app.
+
+Q: Do you deliver on holidays?
+A: Yes, we deliver on most holidays, though hours may be reduced. Check the app for holiday-specific timings.
+
+Q: Can I request no-contact delivery for safety reasons?
+A: Yes, contactless delivery is available as an option at checkout.
+
+Q: What happens if I'm not home when the delivery arrives?
+A: The rider will attempt to contact you; if unreachable after a few minutes, the order may be left at the door or returned, depending on your preference.
+
+Q: How do I update my payment information?
+A: Go to Account Settings > Payment Methods to add, remove, or update your cards.
+
+Q: Is my payment information secure?
+A: Yes, all payments are processed through encrypted, secure payment gateways.
+
+Q: Can I reorder something I've ordered before?
+A: Yes, go to Order History and tap "Reorder" on any past order.
+
+Q: Do you offer discounts for first-time users?
+A: Yes, new users typically get a welcome discount on their first order.
+
+Q: What if the food quality doesn't meet expectations?
+A: Contact support with details and photos if possible; we'll review and offer a refund or credit based on the situation.
+
+Q: Can I customize my order (extra toppings, no onions, etc.)?
+A: Yes, most items have customization options available before adding to cart.
+
+Q: Do you support dietary filters like vegetarian or halal?
+A: Yes, you can filter restaurants and dishes by dietary preferences in the app.
+
+Q: How do I know if a restaurant is currently accepting orders?
+A: The app shows real-time status; unavailable restaurants are marked as closed or busy.
+
+Q: Can I leave a review for a restaurant or rider?
+A: Yes, you can rate and review both after your order is completed.
+
+Q: What if I receive the wrong order entirely?
+A: Contact support immediately with your order number; you'll receive a full refund or the correct order redelivered.
+
+Q: Do delivery riders carry change for cash payments?
+A: Riders carry limited change; it's recommended to have exact or close-to-exact cash for COD orders.
+
+Q: Can businesses/restaurants partner with QuickBite?
+A: Yes, restaurants can apply through our "Partner with Us" page on the website.
+
+Q: Is there a QuickBite mobile app?
+A: Yes, available for both Android and iOS.
+
+Q: How do I delete my account?
+A: Go to Account Settings > Privacy > Delete Account, or contact support for assistance.
+
+Q: What age do I need to be to order?
+A: You must be 18 or older to create an account and place orders.
+
+Q: Can I order alcohol through QuickBite?
+A: This depends on local regulations and restaurant availability; age verification is required where applicable.
+
+Q: What if my card gets declined at checkout?
+A: Double-check your card details or try an alternate payment method like cash on delivery.
+
+Q: Do you offer subscription plans for frequent orderers?
+A: Yes, a monthly subscription plan is available offering free delivery and exclusive discounts.
+
+Q: How can I become a delivery rider for QuickBite?
+A: Apply through the "Ride with Us" section on our website with your ID and vehicle details.
+
+Q: What safety measures are in place for riders and customers?
+A: Riders undergo background checks, and all deliveries are tracked in real-time for safety.
+
+Q: Can I get an invoice for business expense purposes?
+A: Yes, detailed invoices are available in your order history and can be downloaded as PDF.
+
+Q: Does QuickBite operate 24/7?
+A: No, delivery hours are 10 AM to 11 PM daily; there is no 24-hour service currently.
+
+Q: What if I have a food allergy?
+A: Please mention allergies in the order notes; however, we recommend confirming directly with the restaurant for severe allergies.
+
+Q: How do I provide feedback about my overall experience?
+A: Use the "Feedback" option in the app menu or email us directly at support@quickbite.com.
+
