@@ -2,7 +2,7 @@
 
 An AI chatbot that answers customer questions for a fictional food delivery business, using only the company's own FAQ data.
 
-**Live demo:** _coming soon_
+**Live demo:** [Try it here](https://quickbite-ai-assistant-e87vuunl4rsh5hb8sdzq4c.streamlit.app/)
 
 ## What it does
 
